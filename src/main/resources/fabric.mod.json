@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "horrorlab",
+  "version": "${version}",
+  "name": "Horror Lab",
+  "description": "Хоррор-лаборатория: двери с карточками доступа, противогаз, пистолет, мутанты и ядовитый газ.",
+  "authors": ["You"],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["dev.horrorlab.HorrorLabMod"],
+    "client": ["dev.horrorlab.client.HorrorLabClient"]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.5",
+    "minecraft": "~1.21.1",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

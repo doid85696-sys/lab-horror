@@ -1,0 +1,22 @@
+{
+  "itemGroup.horrorlab.main": "Хоррор-лаборатория",
+  "item.horrorlab.keycard_1": "Карточка доступа (ур. 1)",
+  "item.horrorlab.keycard_2": "Карточка доступа (ур. 2)",
+  "item.horrorlab.keycard_3": "Карточка доступа (ур. 3)",
+  "item.horrorlab.gas_mask": "Противогаз",
+  "item.horrorlab.pistol": "Пистолет",
+  "item.horrorlab.ammo": "Патроны",
+  "item.horrorlab.medkit": "Аптечка",
+  "item.horrorlab.mutant_spawn_egg": "Яйцо призыва мутанта",
+  "entity.horrorlab.mutant": "Мутант лаборатории",
+  "block.horrorlab.lab_wall": "Стена лаборатории",
+  "block.horrorlab.lab_floor": "Пол лаборатории",
+  "block.horrorlab.lab_lamp": "Лампа лаборатории",
+  "block.horrorlab.toxic_gas": "Ядовитый газ",
+  "block.horrorlab.lab_door_1": "Дверь лаборатории (ур. 1)",
+  "block.horrorlab.lab_door_2": "Дверь лаборатории (ур. 2)",
+  "block.horrorlab.lab_door_3": "Дверь лаборатории (ур. 3)",
+  "tooltip.horrorlab.keycard": "Уровень доступа %s",
+  "message.horrorlab.need_key": "Доступ запрещён: нужна карточка уровня %s",
+  "command.horrorlab.built": "Лаборатория построена в %s %s %s (вход прямо перед вами, на юге)"
+}

@@ -1,0 +1,22 @@
+{
+  "itemGroup.horrorlab.main": "Horror Lab",
+  "item.horrorlab.keycard_1": "Keycard (Level 1)",
+  "item.horrorlab.keycard_2": "Keycard (Level 2)",
+  "item.horrorlab.keycard_3": "Keycard (Level 3)",
+  "item.horrorlab.gas_mask": "Gas Mask",
+  "item.horrorlab.pistol": "Pistol",
+  "item.horrorlab.ammo": "Pistol Ammo",
+  "item.horrorlab.medkit": "Medkit",
+  "item.horrorlab.mutant_spawn_egg": "Mutant Spawn Egg",
+  "entity.horrorlab.mutant": "Lab Mutant",
+  "block.horrorlab.lab_wall": "Lab Wall",
+  "block.horrorlab.lab_floor": "Lab Floor",
+  "block.horrorlab.lab_lamp": "Lab Lamp",
+  "block.horrorlab.toxic_gas": "Toxic Gas",
+  "block.horrorlab.lab_door_1": "Lab Door (Level 1)",
+  "block.horrorlab.lab_door_2": "Lab Door (Level 2)",
+  "block.horrorlab.lab_door_3": "Lab Door (Level 3)",
+  "tooltip.horrorlab.keycard": "Access level %s",
+  "message.horrorlab.need_key": "Access denied: keycard level %s required",
+  "command.horrorlab.built": "Laboratory built at %s %s %s (entrance is in front of you, south)"
+}

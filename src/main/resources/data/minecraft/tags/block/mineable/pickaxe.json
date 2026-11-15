@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "horrorlab:lab_wall",
+    "horrorlab:lab_floor",
+    "horrorlab:lab_lamp"
+  ]
+}
